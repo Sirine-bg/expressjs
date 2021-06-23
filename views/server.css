@@ -1,0 +1,22 @@
+.container {
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 200px;
+    margin-left: 200px;
+    color: sandybrown;
+
+
+
+}
+
+.cont {
+    margin-top: 100px;
+    color: red;
+    text-align: center;
+}
+.pres{
+    text-align: center;
+}
